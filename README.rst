@@ -20,7 +20,7 @@ OKEX V3 REST Api Client
 
 
 
-Client library for Osion 3
+Client library for OKEX Version 3
 
 
 * Free software: MIT license
